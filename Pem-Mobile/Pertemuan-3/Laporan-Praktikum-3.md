@@ -139,3 +139,6 @@ Langkah 11 : Membuat StyleSheet untuk Styling Terpusat
 16. Konfirmasi Bukti Modal
     Menampilkan pengaturan style untuk popup detail riwayat dan tombol tutup.
     ![alt text](image-25.png)
+
+app gif :
+![alt text](<Screen Recording 2026-09-23 163936.gif>)
